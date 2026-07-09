@@ -6,7 +6,7 @@
 
 **Game/avatar SDK: causal limb + face from intent/KPI streams to joints, face aspects, and Unity/Web trajectory JSON.**
 
-Package: `bodycause` · Product **P13** in the causal research suite.
+Package: `bodycause` - Product **P13** in the causal research suite.
 
 ## Install
 
